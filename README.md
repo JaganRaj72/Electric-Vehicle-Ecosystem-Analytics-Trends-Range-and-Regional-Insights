@@ -209,8 +209,7 @@ The dataset contains Electric Vehicle registration information including:
 
 ### Skills
 
-- SQL
-- Python
+- SQL - Python
 - Power BI
 - Excel
 - Pandas
