@@ -158,4 +158,69 @@ This project helps stakeholders:
 
 <img width="1236" height="715" alt="D1" src="https://github.com/user-attachments/assets/f85f0a9d-0264-4575-828f-11c1ff18122c" />
 
+<img width="1097" height="632" alt="D2" src="https://github.com/user-attachments/assets/82c41309-634a-42ab-a9c7-efce6ef3ed7b" />
+
+<img width="1099" height="635" alt="D3" src="https://github.com/user-attachments/assets/2199564d-eda7-4a96-bbda-05c829747ccb" />
+
+<img width="1097" height="635" alt="D4" src="https://github.com/user-attachments/assets/85f79831-bf75-4591-a059-c7a6fd71ccfa" />
+
+<img width="1097" height="631" alt="D5" src="https://github.com/user-attachments/assets/111ffcfa-4f6c-43ff-bce6-04db2cec17ed" />
+
+<img width="1097" height="635" alt="D6" src="https://github.com/user-attachments/assets/9038a1f1-06d5-4312-9574-188d88601a3c" />
+
+## 📌 Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Intelligence
+- Dashboard Design
+- Python Programming
+- Power BI Development
+- Data Storytelling
+- Business Insight Generation
+- Analytical Thinking
+
+---
+
+## 📄 Dataset
+
+The dataset contains Electric Vehicle registration information including:
+
+- Vehicle Make
+- Model
+- Model Year
+- Electric Vehicle Type
+- Electric Range
+- CAFV Eligibility
+- County
+- City
+- State
+- Utility Provider
+- Vehicle Location
+
+---
+
+## 👨‍💻 Author
+
+**Jagan Raj**
+
+**Aspiring Data Analyst**
+
+### Skills
+
+- SQL
+- Python
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Data Visualization
+- Business Analytics
+
+---
+
+## ⭐ If you found this project helpful, please consider giving it a Star!
 
