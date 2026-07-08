@@ -209,7 +209,7 @@ The dataset contains Electric Vehicle registration information including:
 
 ### Skills
 
-- SQL • Python • Power BI • Excel • Pandas • NumPy • Matplotlib • Seaborn • Data Visualization • Business Analytics
+• SQL • Python • Power BI • Excel • Pandas • NumPy • Matplotlib • Seaborn • Data Visualization • Business Analytics
 
 ---
 
