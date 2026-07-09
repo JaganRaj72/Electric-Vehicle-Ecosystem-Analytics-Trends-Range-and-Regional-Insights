@@ -1,5 +1,7 @@
 # ⚡ Electric Vehicle Ecosystem Analytics: Trends, Range, and Regional Insights
+
 A comprehensive Data Analytics project that explores Electric Vehicle (EV) adoption trends, manufacturer performance, electric range, Clean Alternative Fuel Vehicle (CAFV) eligibility, and regional distribution. The project combines Python for data analysis and Power BI for interactive dashboard development to generate actionable business insights.
+
 ---
 
 ## 📌 Project Overview
@@ -69,6 +71,7 @@ Electric_Vehicle_Ecosystem_Analytics/
 ```
 
 ---
+
 ## 📊 Dashboard Highlights
 
 The Power BI dashboard provides insights into:
@@ -149,7 +152,7 @@ This project helps stakeholders:
 - Carbon Emission Reduction Analysis.
 - Real-Time Dashboard Integration.
 - Predictive Analytics for EV Adoption.
-
+- 
 ---
 
 ## 📷 Dashboard Preview
